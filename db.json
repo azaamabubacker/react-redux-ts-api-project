@@ -1,0 +1,9 @@
+{
+    "students": [
+      { "id": 1, "name": "John Doe", "age": 25, "gender": "Male", "description": "Lorem ipsum" },
+      { "id": 2, "name": "Jane Doe", "age": 22, "gender": "Female", "description": "Dolor sit amet" },
+      { "id": 3, "name": "Bob Smith", "age": 28, "gender": "Male", "description": "Consectetur adipiscing elit" },
+      { "id": 4, "name": "Alice Johnson", "age": 24, "gender": "Female", "description": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua" }
+    ]
+  }
+  

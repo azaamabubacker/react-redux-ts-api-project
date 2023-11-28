@@ -1,8 +1,11 @@
+import MainApp from '@/components/MainApp'
+
 function App() {
   return (
     <>
-     Hello
+    <MainApp/>
     </>
+    
   )
 }
 
