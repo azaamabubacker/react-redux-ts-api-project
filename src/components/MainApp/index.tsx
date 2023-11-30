@@ -1,13 +1,11 @@
-import Navigation from '@/components/Navigation'
+import StudentCard from "@/components/StudentCard";
 
 const index = () => {
   return (
-    <main className='w-5/6 mx-auto'>
-        <nav>
-            <Navigation/>
-        </nav>
+    <main className="w-5/6 mx-auto">
+      <StudentCard />
     </main>
-  )
-}
+  );
+};
 
-export default index
+export default index;
